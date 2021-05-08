@@ -1,0 +1,12 @@
+.navbar {
+    background-color: rgb(231, 236, 240);
+}
+
+.logo {
+    height: 32px;
+    margin: 16px;
+}
+
+.navbar_logo {
+    float: left;
+}
