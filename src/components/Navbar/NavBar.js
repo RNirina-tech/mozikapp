@@ -15,7 +15,7 @@ const NavBar = () => (
     <Nav className="mr-auto">
       <Nav.Link as={Link} to="/">Home</Nav.Link>
       <Nav.Link as={Link} to="/purchase">Purchase an album</Nav.Link>
-      <Nav.Link as={Link} to="/credits">Credits</Nav.Link>
+      <Credit />
     </Nav>
   </Collapse>
 </Navbar>
